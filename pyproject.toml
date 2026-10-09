@@ -1,0 +1,19 @@
+[project]
+name = "ema-strategy-validation"
+version = "1.0.0"
+description = "Statistical validation of manual 200EMA / 20EMA trend-pullback backtests"
+requires-python = ">=3.12"
+license = { text = "MIT" }
+authors = [{ name = "Yugo Kawamura" }]
+
+[tool.pytest.ini_options]
+pythonpath = ["src"]
+testpaths = ["tests"]
+
+[tool.ruff]
+line-length = 110
+target-version = "py312"
+src = ["src", "tests", "scripts"]
+
+[tool.ruff.lint]
+select = ["E", "F", "W", "I", "B", "UP", "C4", "SIM", "NPY", "PD"]
