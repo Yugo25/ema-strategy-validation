@@ -1,0 +1,9 @@
+sep=,
+Trade History
+id,symbol,type,displayUnitLabel,lots,lotSize,minDistanceToPrice,openTime,openPrice,marketPrice,swap,commision,points,profit,sl,tp,decimals,comment,magicNumber,closePrice,closeTime,orderStatus,openedByEA,ea,tags,isGhost,confidenceLevel,screenshots,backadjustment,checklist
+"0","","DEPOSIT","points","0","10000","0","2003-01-02 00:00:00","0","0","0","0","0","10000","0","0","5","Initial deposit","0","0","2003-01-02 00:00:00","None","false","null","","false","NotSet","","undefined","undefined"
+"1","EURUSD","SELL","pips","0.17","100000","0","2024-01-09 09:59:59","1.0944","1.08577","0","1.7","86.3","145.01","1.10025","1.08577","5","","0","1.08577","2024-01-17 06:11:48","Filled","false","null","","false","NotSet","","undefined","undefined"
+"2","EURUSD","BUY","pips","0.15","100000","0","2024-03-04 11:59:56","1.08563","1.09226","0","1.5","66.3","97.95","1.07924","1.09226","5","","0","1.09226","2024-03-07 15:37:43","Filled","false","null","","false","NotSet","","undefined","undefined"
+"3","EURUSD","SELL","pips","0.27","100000","0","2024-03-18 16:59:59","1.08723","1.09081","0","2.7","-35.8","-99.36","1.09081","1.08335","5","","0","1.09081","2024-03-20 18:49:11","Filled","false","null","","false","NotSet","","undefined","undefined"
+"4","EURUSD","SELL","pips","0.23","100000","0","2024-03-27 01:59:54","1.08233","1.0726","0","2.3","97.3","221.49","1.08664","1.0726","5","","0","1.0726","2024-04-02 06:00:50","Filled","false","null","","false","NotSet","","undefined","undefined"
+"5","EURUSD","BUY","pips","0.36","100000","0","2024-04-25 00:59:59","1.07035","1.07527","0","3.6","49.2","173.52","1.0676","1.07527","5","","0","1.07527","2024-04-26 08:42:37","Filled","false","null","","false","NotSet","","undefined","undefined"
