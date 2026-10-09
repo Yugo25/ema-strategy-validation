@@ -1,0 +1,4 @@
+,median_total_r,p05_total_r,p_total_le_zero,median_max_dd_r,p95_max_dd_r,median_losing_streak,p95_losing_streak
+200EMA,38.6027,15.7861,0.0013,6.2842,11.4719,5.0,8.0
+20EMA,41.4903,18.7112,0.0008,6.1962,11.1571,5.0,8.0
+Hybrid,45.9912,21.6641,0.0008,6.4515,11.5754,5.0,8.0

@@ -1,0 +1,4 @@
+comparison,diff,p_value
+200EMA vs 20EMA,-0.0276,0.8588
+200EMA vs Hybrid,-0.0701,0.7067
+20EMA vs Hybrid,-0.0425,0.8334
