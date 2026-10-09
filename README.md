@@ -163,7 +163,7 @@ reports/                      generated output (summary, tables, figures)
 
 **Yugo Kawamura** — based in Canada. I design and test trading strategies, and I care
 most about measuring them honestly.
-[LinkedIn](https://www.linkedin.com/in/YOUR-LINKEDIN-ID) · [GitHub](https://github.com/Yugo25)
+[LinkedIn](https://www.linkedin.com/in/yugo-kawamura-25yk) · [GitHub](https://github.com/Yugo25)
 
 ---
 
